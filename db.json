@@ -73,6 +73,13 @@
       "img": "https://images.unsplash.com/photo-1513146507254-ea31b3c4c0d1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80"
     }
   ],
+  "coupons" [
+    {
+      "id": 1,
+      "code": "BEEROVERFLOWERS",
+      "discount": 50
+    }
+  ],
   "orders": [
     {
       "order": {
