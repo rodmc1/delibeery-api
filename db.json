@@ -78,6 +78,11 @@
       "id": 1,
       "code": "BEEROVERFLOWERS",
       "discount": 50
+    },
+    {
+      "id": 2,
+      "code": "MORE25",
+      "discount": 25
     }
   ],
   "orders": [
