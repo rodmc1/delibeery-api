@@ -103,6 +103,7 @@
               "quantity": 3
             }
           ],
+          "discount": 0,
           "totalPrice": 440
         }
       },
@@ -139,6 +140,7 @@
               "quantity": 2
             }
           ],
+          "discount": 0,
           "totalPrice": 910
         }
       },
