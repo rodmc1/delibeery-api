@@ -87,64 +87,50 @@
   ],
   "orders": [
     {
+      "id": 1612950792923,
       "order": {
-        "orderId": 1612880529548,
-        "address": "Security Bank",
-        "deliveryTime": " 20 minutes",
-        "status": "Delivered",
-        "date": "09-Feb-2021 10:22:09 pm",
+        "orderId": 1612950792923,
+        "address": "Catchuela Dental Clinic",
+        "deliveryTime": " 18 minutes",
+        "status": "Preparing order",
+        "date": "10-Feb-2021 5:53:12 pm",
         "orderDetails": {
           "orders": [
             {
-              "id": 4,
-              "name": "Asahi",
-              "price": "390.00",
-              "img": "https://images.unsplash.com/photo-1552853041-59e6f459f83b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+              "id": 3,
+              "name": "Lager",
+              "price": "220.00",
+              "img": "https://images.unsplash.com/photo-1593210435269-fc1e75b23610?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+              "quantity": 2
+            }
+          ],
+          "discount": 0,
+          "totalPrice": 270
+        }
+      }
+    },
+    {
+      "id": 1612950192934,
+      "order": {
+        "orderId": 1612950192934,
+        "address": "Catchuela Dental Clinic",
+        "deliveryTime": " 18 minutes",
+        "status": "Preparing order",
+        "date": "10-Feb-2021 5:53:12 pm",
+        "orderDetails": {
+          "orders": [
+            {
+              "id": 3,
+              "name": "Lager",
+              "price": "220.00",
+              "img": "https://images.unsplash.com/photo-1593210435269-fc1e75b23610?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
               "quantity": 3
             }
           ],
           "discount": 0,
-          "totalPrice": 440
+          "totalPrice": 380
         }
-      },
-      "id": 1
-    },
-    {
-      "order": {
-        "orderId": 1612880554780,
-        "address": "National Bookstore",
-        "deliveryTime": " 26 minutes",
-        "status": "Delivered",
-        "date": "09-Feb-2021 10:22:34 pm",
-        "orderDetails": {
-          "orders": [
-            {
-              "id": 6,
-              "name": "Corona Extra",
-              "price": "220.00",
-              "img": "https://images.unsplash.com/photo-1600213903598-25be92abde40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-              "quantity": 2
-            },
-            {
-              "id": 10,
-              "name": "Funky Buddhas",
-              "price": "340.00",
-              "img": "https://images.unsplash.com/photo-1585426820805-bbe581526285?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-              "quantity": 2
-            },
-            {
-              "id": 12,
-              "name": "Pacifico",
-              "price": "300.00",
-              "img": "https://images.unsplash.com/photo-1513146507254-ea31b3c4c0d1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
-              "quantity": 2
-            }
-          ],
-          "discount": 0,
-          "totalPrice": 910
-        }
-      },
-      "id": 2
+      }
     }
   ]
 }
