@@ -87,49 +87,50 @@
   ],
   "orders": [
     {
-      "id": 1612950792923,
-      "order": {
-        "orderId": 1612950792923,
-        "address": "Catchuela Dental Clinic",
-        "deliveryTime": " 18 minutes",
-        "status": "Preparing order",
-        "date": "10-Feb-2021 5:53:12 pm",
-        "orderDetails": {
-          "orders": [
-            {
-              "id": 3,
-              "name": "Lager",
-              "price": "220.00",
-              "img": "https://images.unsplash.com/photo-1593210435269-fc1e75b23610?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-              "quantity": 2
-            }
-          ],
-          "discount": 0,
-          "totalPrice": 270
-        }
+      "id": 1612956100171,
+      "address": "Cammayo Resort",
+      "deliveryTime": " 18 minutes",
+      "status": "Preparing order",
+      "date": "10-Feb-2021 7:21:40 pm",
+      "discount": 0,
+      "totalPrice": 1090,
+      "orderDetails": {
+        "orders": [
+          {
+            "id": 5,
+            "name": "Flysian",
+            "price": "1040.00",
+            "img": "https://images.unsplash.com/photo-1568665449496-c699397e3332?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+            "quantity": 8
+          }
+        ]
       }
     },
     {
-      "id": 1612950192934,
-      "order": {
-        "orderId": 1612950192934,
-        "address": "Catchuela Dental Clinic",
-        "deliveryTime": " 18 minutes",
-        "status": "Preparing order",
-        "date": "10-Feb-2021 5:53:12 pm",
-        "orderDetails": {
-          "orders": [
-            {
-              "id": 3,
-              "name": "Lager",
-              "price": "220.00",
-              "img": "https://images.unsplash.com/photo-1593210435269-fc1e75b23610?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-              "quantity": 3
-            }
-          ],
-          "discount": 0,
-          "totalPrice": 380
-        }
+      "id": 1612956170203,
+      "address": "Department Of Coffee",
+      "deliveryTime": " 20 minutes",
+      "status": "Preparing order",
+      "date": "10-Feb-2021 7:22:50 pm",
+      "discount": 0,
+      "totalPrice": 755,
+      "orderDetails": {
+        "orders": [
+          {
+            "id": 7,
+            "name": "Heineken",
+            "price": "375.00",
+            "img": "https://images.unsplash.com/photo-1599333388451-e28bda44d0c3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 3
+          },
+          {
+            "id": 6,
+            "name": "Corona Extra",
+            "price": "330.00",
+            "img": "https://images.unsplash.com/photo-1600213903598-25be92abde40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 3
+          }
+        ]
       }
     }
   ]
