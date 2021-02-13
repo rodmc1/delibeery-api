@@ -102,7 +102,7 @@
       "id": 1612956100171,
       "address": "Cammayo Resort",
       "deliveryTime": " 18 minutes",
-      "status": "Preparing order",
+      "status": "Delivered",
       "date": "10-Feb-2021 7:21:40 pm",
       "discount": 0,
       "totalPrice": 1090,
@@ -119,28 +119,88 @@
       }
     },
     {
-      "id": 1612992170203,
-      "address": "Department Of Coffee",
-      "deliveryTime": " 20 minutes",
-      "status": "Preparing order",
-      "date": "10-Feb-2021 7:22:50 pm",
-      "discount": 0,
-      "totalPrice": 755,
+      "id": 1613245632234,
+      "address": "Don-Day Fresh Korean BBQ & Restaurant",
+      "deliveryTime": " 22 minutes",
+      "status": "Delivered",
+      "date": "14-Feb-2021 3:47:12 am",
+      "discount": 25,
+      "totalPrice": 375,
       "orderDetails": {
         "orders": [
           {
-            "id": 7,
-            "name": "Heineken",
-            "price": "375.00",
-            "img": "https://images.unsplash.com/photo-1599333388451-e28bda44d0c3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-            "quantity": 3
+            "id": 3,
+            "name": "Lager",
+            "price": "220.00",
+            "status": "Available",
+            "img": "https://images.unsplash.com/photo-1593210435269-fc1e75b23610?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 2
           },
           {
-            "id": 6,
-            "name": "Corona Extra",
-            "price": "330.00",
-            "img": "https://images.unsplash.com/photo-1600213903598-25be92abde40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-            "quantity": 3
+            "id": 4,
+            "name": "Asahi",
+            "price": "130",
+            "status": "Available",
+            "img": "https://images.unsplash.com/photo-1552853041-59e6f459f83b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 1613246597089,
+      "address": "BIR RDO 38 - North Quezon City",
+      "deliveryTime": " 21 minutes",
+      "status": "Delivered",
+      "date": "14-Feb-2021 4:03:17 am",
+      "discount": 0,
+      "totalPrice": 1600,
+      "orderDetails": {
+        "orders": [
+          {
+            "id": 11,
+            "name": "San Mig Pale Pilsen",
+            "price": "700.00",
+            "status": "Available",
+            "img": "https://images.unsplash.com/photo-1598562925445-9532172510ca?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 10
+          },
+          {
+            "id": 10,
+            "name": "Funky Buddhas",
+            "price": "850.00",
+            "status": "Available",
+            "img": "https://images.unsplash.com/photo-1585426820805-bbe581526285?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 1613246643887,
+      "address": "Judge Juan Luna Highschool",
+      "deliveryTime": " 25 minutes",
+      "status": "Delivered",
+      "date": "14-Feb-2021 4:04:03 am",
+      "discount": 0,
+      "totalPrice": 1150,
+      "orderDetails": {
+        "orders": [
+          {
+            "id": 1,
+            "name": "Gensberg",
+            "price": "450.00",
+            "status": "Available",
+            "img": "https://images.unsplash.com/photo-1583668654144-33dd7a0cec07?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 5
+          },
+          {
+            "id": 4,
+            "name": "Asahi",
+            "price": "650.00",
+            "status": "Available",
+            "img": "https://images.unsplash.com/photo-1552853041-59e6f459f83b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "quantity": 5
           }
         ]
       }
